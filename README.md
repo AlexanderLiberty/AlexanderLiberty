@@ -2,7 +2,7 @@
 
 **Александр Свобода** исследователь криптографии
 
-- 💻 technical ability: C++/Pyhont/PHP/Golang
+- 💻 способность: C++/Pyhont/PHP/Golang
 - 👯 Я ищу сотрудничество в области криптографии и математики
 - 📫 Как связаться со мной: MTEwMTEwMDExMTAwMDExMDEwMDExMDEwMTAxMTAxMTEwMDExMTAxMDExMDEwMDAwMTAxMDExMTAxMA
 
